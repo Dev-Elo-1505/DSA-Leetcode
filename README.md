@@ -1,3 +1,4 @@
 # Leetcode Problems and Solutions
 
-Classified according to tags and complexity.
+Classification: tag and complexity.
+Programming Language: Javascript
